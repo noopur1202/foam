@@ -1,24 +1,16 @@
 {
-    "items": [
-        {
-            "name": "Watt",
-            "value": "270 Watt"
-        },
-        {
-            "name": "Today",
-            "value": "5.85 kWh"
-        },
-        {
-            "name": "ThisWeek",
-            "value": "5.83 kWh"
-        },
-        {
-            "name": "ThisMonth",
-            "value": "12.8 kWh"
-        },
-        {
-            "name": "LastMonth",
-            "value": "246.75 kWh"
-        }
-    ]
+   "cups":[  
+      {  
+         "icon":"fa-calendar",
+         "day":"monday",
+         "value":"2019-03-07",
+         "type":""
+      },
+      {  
+         "icon":"fa-clock-o",
+         "day":"tuesday",
+         "value":"17:32:06",
+         "type":""
+      }
+   ]
 }
