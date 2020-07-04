@@ -1,0 +1,24 @@
+{
+    "items": [
+        {
+            "name": "Watt",
+            "value": "270 Watt"
+        },
+        {
+            "name": "Today",
+            "value": "5.85 kWh"
+        },
+        {
+            "name": "ThisWeek",
+            "value": "5.83 kWh"
+        },
+        {
+            "name": "ThisMonth",
+            "value": "12.8 kWh"
+        },
+        {
+            "name": "LastMonth",
+            "value": "246.75 kWh"
+        }
+    ]
+}
