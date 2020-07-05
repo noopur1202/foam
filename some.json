@@ -24,68 +24,68 @@
 		},
 		{
 			"time": "9 AM",
-			"day1": "some name",
-			"day2": "some other",
-			"day3": "third",
-			"day4": "fourth",
-			"day5": "sixth",
-			"day6": "helo",
-			"day7": "sunday"
+			"day1": "Boil ghiya salad + milk coffee without sugar",
+			"day2": "Boil of papaya OR bowl of muskmelon",
+			"day3": "One brown bread sandwich OR one besan chila",
+			"day4": "Boil of papaya OR bowl of muskmelon",
+			"day5": "One brown bread sandwich OR one besan chila",
+			"day6": "Boil of papaya OR bowl of muskmelon",
+			"day7": "One brown bread sandwich OR one besan chila"
 
 		},
 		{
 			"time": "12",
-			"day1": "some name",
-			"day2": "some other",
-			"day3": "third",
-			"day4": "fourth",
-			"day5": "sixth",
-			"day6": "helo",
-			"day7": "sunday"
+			"day1": "4 soaked almonds + 2 anjeer + 4 kishmish",
+			"day2": "4 soaked almonds + 1/2 cup milk coffee or green tea",
+			"day3": "4 soaked almonds + 2 anjeer + 4 kishmish",
+			"day4": "4 soaked almonds + 1/2 cup milk coffee or green tea",
+			"day5": "4 soaked almonds + 2 anjeer + 4 kishmish",
+			"day6": "4 soaked almonds + 1/2 cup milk coffee or green tea",
+			"day7": "4 soaked almonds + 2 anjeer + 4 kishmish"
 
 		},
 		{
 			"time": "2 PM",
-			"day1": "some name",
-			"day2": "some other",
-			"day3": "third",
-			"day4": "fourth",
-			"day5": "sixth",
-			"day6": "helo",
-			"day7": "sunday"
+			"day1": "One brown bread sandwich OR one besan chila",
+			"day2": "1/2 Barley + 1/2 wheat roti and sabzi + onion tomato salad",
+			"day3": "Cold coffee",
+			"day4": "1/2 Barley + 1/2 wheat roti and sabzi + onion tomato salad",
+			"day5": "Cold coffee",
+			"day6": "1/2 Barley + 1/2 wheat roti and sabzi + onion tomato salad",
+			"day7": "Cold coffee"
 
 		},
 		{
 			"time": "5 PM",
-			"day1": "some name",
-			"day2": "some other",
-			"day3": "third",
-			"day4": "fourth",
-			"day5": "sixth",
-			"day6": "helo",
-			"day7": "sunday"
+			"day1": "1 apple OR 1 mausambi",
+			"day2": "Green tea inch loss + 4 soaked almonds + 2 anjeer + 4 kishmish",
+			"day3": "1 apple OR 1 mausambi OR 2 slice pineapple",
+			"day4": "Green tea inch loss + 4 soaked almonds + 2 anjeer + 4 kishmish",
+			"day5": "1 apple OR 1 mausambi OR 2 slice pineapple",
+			"day6": "Green tea inch loss + 4 soaked almonds + 2 anjeer + 4 kishmish",
+			"day7": "1 apple OR 1 mausambi OR 2 slice pineapple"
 
 		},
 		 {
 			"time": "8 PM",
-			"day1": "some name",
-			"day2": "some other",
-			"day3": "third",
-			"day4": "fourth",
-			"day5": "sixth",
-			"day6": "helo",
-			"day7": "sunday"
+			"day1": "Bowl of papaya OR bowl of muskmelon",
+			"day2": "Milkshake",
+			"day3": "2 kiwi OR 2 slice pineapple OR steamed french beans with onion and tomato without salt",
+			"day4": "Boil ghiya salad",
+			"day5": "Milkshake",
+			"day6": "Saute french beans + onion tomato without salt",
+			"day7": "Milkshake"
 
 		},
 		 {
 			"time": "11 PM",
-			"day1": "some name",
-			"day2": "some other",
-			"day3": "third",
-			"day4": "fourth",
-			"day5": "sixth",
-			"day6": "helo",
-			"day7": "sunday"
+			"day1": "Jeera tea",
+			"day2": "Jeera tea",
+			"day3": "Jeera tea",
+			"day4": "Jeera tea",
+			"day5": "Jeera tea",
+			"day6": "Jeera tea",
+			"day7": "Jeera tea"
 
 		}
 	]
