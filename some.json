@@ -1,70 +1,69 @@
 {
-   "cups":[  
-      {  
-         "icon":"fa-calendar",
-         "day1":"monday",
-           "day2":"tuesday",  
-         "day3":"wednesday",
-           "day4":"thursday",
-           "day5":"friday",
-           "day6":"saturday",
-            "day6":"sunday",
+	"cups": [{
+			"icon": "fa-calendar",
+			"day1": "monday",
+			"day2": "tuesday",
+			"day3": "wednesday",
+			"day4": "thursday",
+			"day5": "friday",
+			"day6": "saturday",
+			"day7": "sunday"
 
-      },
-         {  
-         "icon":"fa-calendar",
-         "day1":"some name",
-           "day2":"some other",  
-         "day3":"third",
-           "day4":"fourth",
-           "day5":"sixth",
-           "day6":"helo",
-            "day6":"big name her",
+		},
+		{
+			"icon": "fa-calendar",
+			"day1": "some name",
+			"day2": "some other",
+			"day3": "third",
+			"day4": "fourth",
+			"day5": "sixth",
+			"day6": "helo",
+			"day7": "big name her"
 
-      },
-         {  
-         "icon":"fa-calendar",
-         "day1":"some name",
-           "day2":"some other",  
-         "day3":"third",
-           "day4":"fourth",
-           "day5":"sixth",
-           "day6":"helo",
-            "day6":"big name her",
+		},
+		{
+			"icon": "fa-calendar",
+			"day1": "some name",
+			"day2": "some other",
+			"day3": "third",
+			"day4": "fourth",
+			"day5": "sixth",
+			"day6": "helo",
+			"day7": "big name her"
 
-      },
-         {  
-         "icon":"fa-calendar",
-         "day1":"some name",
-           "day2":"some other",  
-         "day3":"third",
-           "day4":"fourth",
-           "day5":"sixth",
-           "day6":"helo",
-            "day6":"big name her",
+		},
+		{
+			"icon": "fa-calendar",
+			"day1": "some name",
+			"day2": "some other",
+			"day3": "third",
+			"day4": "fourth",
+			"day5": "sixth",
+			"day6": "helo",
+			"day7": "big name her"
 
-      },
-         {  
-         "icon":"fa-calendar",
-         "day1":"some name",
-           "day2":"some other",  
-         "day3":"third",
-           "day4":"fourth",
-           "day5":"sixth",
-           "day6":"helo",
-            "day6":"big name her",
+		},
+		{
+			"icon": "fa-calendar",
+			"day1": "some name",
+			"day2": "some other",
+			"day3": "third",
+			"day4": "fourth",
+			"day5": "sixth",
+			"day6": "helo",
+			"day7": "big name her"
 
-      },
-         {  
-         "icon":"fa-calendar",
-         "day1":"some name",
-           "day2":"some other",  
-         "day3":"third",
-           "day4":"fourth",
-           "day5":"sixth",
-           "day6":"helo",
-            "day6":"big name her",
+		},
+		{
+			"icon": "fa-calendar",
+			"day1": "some name",
+			"day2": "some other",
+			"day3": "third",
+			"day4": "fourth",
+			"day5": "sixth",
+			"day6": "helo",
+			"day7": "big name her"
 
-      }
-   ]
+		}
+	]
 }
